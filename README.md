@@ -73,7 +73,7 @@ $border: #dcd9d9;
 
 // Define text colors
 $heading: #374054;
-$text: #74808a;
+$text: #163b40;
 ```
 
 If you wish to change the general colour scheme of the page for example, simply change the value of `$base-color`.
